@@ -2,8 +2,8 @@
 Assignment in course ICS5111 für MSc in Artificial Intelligence in the Winter Semester 2024. Group participants:
 
 * danou.nauck.24@um.edu.mt
-* james
-* richard
+* richard.muscat.24@um.edu.mt
+* james.mansueto.03@um.edu.mt
 
 
 ## Usage
@@ -18,7 +18,7 @@ The ***Journal document*** file can be found here:
 * https://docs.google.com/document/d/1OYasAGGiOdcpnwj0BQFHTR_HgXUwIvYkn92UqCV6fMk/edit?tab=t.0
 
 The final ***Assignment paper*** we use the master-template from the uni website. The optimized and prepared version can be found here:
-* https://www.overleaf.com/project/671f5602b8967f23a9d7681e [**(1)**](https://www.overleaf.com/project/671f5602b8967f23a9d7681e) from Danou
+* https://www.overleaf.com/project/675888f9fde9151e342aa7ef from Danou
 
 The ***Plagasim form***, each one has to fill it out and sign it seperatly
 * https://drive.google.com/drive/folders/1R1uajA8F4sQJXPEh0Nkqfm4KbSZbh-zf 
