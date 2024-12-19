@@ -15,7 +15,7 @@ regular git-usage rules apply. I think as you are all invited, you can add your 
 ## Deliverables
 
 The ***Journal document*** file can be found here:
-* https://docs.google.com/document/d/1OYasAGGiOdcpnwj0BQFHTR_HgXUwIvYkn92UqCV6fMk/edit?tab=t.0
+* https://docs.google.com/document/d/1lX5Soy_wyr0UZuNhugwC-ofrvsiVY2qYpJ3CdpgSC1k/edit?tab=t.0
 
 The final ***Assignment paper*** we use the master-template from the uni website. The optimized and prepared version can be found here:
 * https://www.overleaf.com/project/675888f9fde9151e342aa7ef from Danou
